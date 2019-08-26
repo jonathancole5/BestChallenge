@@ -1,0 +1,45 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	display: block;
+	margin: 0;
+}
+
+.g {
+	background-color: #008D24;
+	width:50%;
+}
+
+.lb {
+	background-color: #0B69C0;
+	width: 50%;
+}
+
+.p {
+	background-color: #3A246D;
+}
+
+.r {
+	background-color: #CA1B22;
+}
+
+.o {
+	background-color: #EA6626;
+}
+
+.b {
+	height: 100%;
+	width: calc(100%/3);
+}
+
+.c {
+	display:flex;
+	height:calc(100%/2);
+	width: 100%;
+}
+
+.c-i {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
